@@ -11,3 +11,24 @@
  *= require_self
  *= require_tree .
  */
+
+#name {
+	color: #ababab;
+	font-size: 30px;
+	font-weight: lighter;
+	padding-left: 0;
+}
+
+hr.line1 {
+	border-bottom: 1px solid #bcbcbc;
+	margin-bottom: 0;
+}
+
+.thS {
+	padding-top: 60px;
+}
+
+a.buttonSpacing {
+	margin-top: 11px;
+	float: right;
+}
