@@ -25,10 +25,13 @@ hr.line1 {
 }
 
 .thS {
-	padding-top: 60px;
 }
 
 a.buttonSpacing {
 	margin-top: 11px;
 	float: right;
+}
+
+.headerS {
+	padding-top: 40px;
 }
