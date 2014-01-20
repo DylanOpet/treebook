@@ -35,3 +35,8 @@ a.buttonSpacing {
 .headerS {
 	padding-top: 40px;
 }
+
+.well {
+	background: #f5f5f5;
+	padding: 25px;
+}
